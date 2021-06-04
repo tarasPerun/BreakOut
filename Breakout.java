@@ -2,7 +2,7 @@
  * File: Breakout.java
  * ------------------------
  * The program implements the classic arcade game "Breakout".
- * The game consists of three attempts. At the beginning of each attempt,
+ * The game consists of three attempts. At the beginning of each attemp
  * the ball is launched at a random angle from the racket. This ball bounces
  * off the edges of the world and from the racket, according to the laws
  * of physics: the angle of incidence is equal to the angle of reflection.
